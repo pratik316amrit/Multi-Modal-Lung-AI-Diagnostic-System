@@ -3,7 +3,21 @@
 
 > Advanced AI-powered system for early diagnosis and explainable prognosis of lung disorders using multi-modal data fusion (X-ray + Clinical Data + Temporal Analysis)
 
-## 🌟 Features
+## 🌟 Key Features
+
+![Key Features Summary](Images/Key%20Features%20Summary.png)
+
+## 🏗️ System Architecture
+
+![System Architecture Overview](Images/System%20Architecture%20Overview.png)
+
+## 👤 User Journey
+
+![User Journey Flow](Images/User%20Journey%20Flow.png)
+
+## 📊 Sample Diagnostic Report
+
+![Comprehensive Diagnostic Report](Images/comprehensive_report_00000584_000%20(1).png)
 
 ### 🎯 Multi-Modal AI Fusion
 - **X-ray Image Analysis**: Deep learning-based feature extraction using ResNet-50
