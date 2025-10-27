@@ -1,0 +1,10 @@
+{
+  "age": 67,
+  "gender": 1,
+  "smoking_history": 2,
+  "oxygen_saturation": 88.5,
+  "fever": 1,
+  "cough": 1,
+  "shortness_of_breath": 1,
+  "chest_pain": 0
+}

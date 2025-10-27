@@ -1,0 +1,10 @@
+{
+  "age": 45,
+  "gender": 1,
+  "smoking_history": 1,
+  "oxygen_saturation": 95.0,
+  "fever": 0,
+  "cough": 1,
+  "shortness_of_breath": 0,
+  "chest_pain": 0
+}
