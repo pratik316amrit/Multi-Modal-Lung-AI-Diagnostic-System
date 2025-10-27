@@ -43,5 +43,6 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/lung-ai-diagnostic-system.git
+git clone https://github.com/pratik316amrit/Multi-Modal-Lung-AI-Diagnostic-System/
 cd lung-ai-diagnostic-system
+```
