@@ -46,3 +46,8 @@
 git clone https://github.com/pratik316amrit/Multi-Modal-Lung-AI-Diagnostic-System/
 cd lung-ai-diagnostic-system
 ```
+
+2. **Run the StreamLit app**
+```bash
+streamlit run app.py
+```
